@@ -422,7 +422,6 @@ abbr[title] {
 b,
 strong {
   font-weight: inherit;
-  font-weight: bold;
 }
 dfn {
   font-style: italic;
