@@ -1,4 +1,5 @@
-document.write(`<header id="header" class="header d-flex align-items-center">
+document.write(`  <!-- ======= Header ======= -->
+<header id="header" class="header d-flex align-items-center">
   <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
 
     <a href="index.html" class="logo d-flex align-items-center">
@@ -11,14 +12,14 @@ document.write(`<header id="header" class="header d-flex align-items-center">
     <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
     <nav id="navbar" class="navbar">
       <ul>
-      <!-- <li><a href="index.html">Landing Page</a></li> -->
+        <li><a href="index.html" class="active">Home</a></li>
         <li><a href="about.html">About</a></li>
-        <li><a href="blog.html">Services</a></li>
-        <li><a href="services.html">Our Product</a></li>
-        <li><a href="projects.html">Galery</a></li>
+        <li><a href="blog.html">Business Line</a></li>
+        <!-- <li><a href="services.html">Our Product</a></li> -->
+        <!-- <li><a href="projects.html">Galery</a></li> -->
         <li><a href="contact.html">Contact</a></li>
       </ul>
     </nav><!-- .navbar -->
 
   </div>
-</header>`);
+</header><!-- End Header -->`);
