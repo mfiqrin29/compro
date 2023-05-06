@@ -11,7 +11,7 @@ document.write(`<header id="header" class="header d-flex align-items-center">
     <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
     <nav id="navbar" class="navbar">
       <ul>
-        <li><a href="index.html">Landing Page</a></li>
+      <!-- <li><a href="index.html">Landing Page</a></li> -->
         <li><a href="about.html">About</a></li>
         <li><a href="blog.html">Services</a></li>
         <li><a href="services.html">Our Product</a></li>
