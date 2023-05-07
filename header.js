@@ -13,7 +13,7 @@ document.write(`  <!-- ======= Header ======= -->
     <nav id="navbar" class="navbar">
       <ul>
         
-        <li><a href="about.html" class="active">About</a></li>
+        <li><a href="about.html">About</a></li>
         <li><a href="blog.html">Business Line</a></li>
         <!-- <li><a href="services.html">Our Product</a></li> -->
         <!-- <li><a href="projects.html">Galery</a></li> -->
