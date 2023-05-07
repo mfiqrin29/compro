@@ -814,6 +814,13 @@ section {
   }
 }
 
+@media (max-width: 575px)::-webkit-scrollbar{
+  .features .nav-link h4 {
+    display: none;
+  }
+}
+
+
 .features .nav-link:hover {
   color: var(--color-primary);
 }
