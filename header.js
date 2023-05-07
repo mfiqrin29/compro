@@ -12,7 +12,7 @@ document.write(`  <!-- ======= Header ======= -->
     <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
     <nav id="navbar" class="navbar">
       <ul>
-        <li><a href="index.html">Home</a></li>
+        
         <li><a href="about.html" class="active">About</a></li>
         <li><a href="blog.html">Business Line</a></li>
         <!-- <li><a href="services.html">Our Product</a></li> -->

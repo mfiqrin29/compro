@@ -785,13 +785,15 @@ section {
   transition: 0.3s;
   color: var(--color-secondary);
   border-radius: 0;
-  display: flex;
+  display: -webkit-box;
   align-items: center;
   justify-content: center;
   cursor: pointer;
   height: 100%;
   border: 0;
   border-bottom: 4px solid #e2e4e6;
+  overflow: auto;
+  white-space: nowrap;
 }
 
 .features .nav-link i {
