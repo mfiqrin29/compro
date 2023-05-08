@@ -23,7 +23,7 @@ document.write(`  <footer id="footer" class="footer">
       </div><!-- End footer info column-->
 
       <div class="col-lg-4 col-md-6">
-        <div class="footer-info" style="padding-top: 55px;">
+        <div class="footer-info" style="padding-top: 35px;">
 
 
           <h6>Japan Branch:
@@ -46,7 +46,7 @@ document.write(`  <footer id="footer" class="footer">
       </div><!-- End footer info column-->
 
 
-      <div class="col-lg-2 col-md-3 footer-links" style="padding-top: 50px;">
+      <div class="col-lg-2 col-md-3 footer-links" style="padding-top: 35px;">
         <h4>Useful Links</h4>
         <ul>
           <li><a href="index.html">Home</a></li>
@@ -54,7 +54,7 @@ document.write(`  <footer id="footer" class="footer">
 
         </ul>
       </div><!-- End footer links column-->
-      <div class="col-lg-2 col-md-3 footer-links" style="padding-top: 85px;">
+      <div class="col-lg-2 col-md-3 footer-links" style="padding-top: 110px;">
 
         <ul>
           <li><a href="blog.html">Business Line</a></li>
