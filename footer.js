@@ -59,7 +59,7 @@ document.write(`  <footer id="footer" class="footer">
 
         <ul>
           <li><a href="blog.html">Business Line</a></li>
-          <li><a href="contact.php">Contact</a></li>
+          <li><a href="contact.html">Contact</a></li>
 
         </ul>
       </div>
