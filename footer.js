@@ -26,7 +26,7 @@ document.write(`  <footer id="footer" class="footer">
         <div class="footer-info" style="padding-top: 35px;">
 
 
-          <h6>Japan Branch:
+          <h6>Japan Branch
             Address:
 
 
