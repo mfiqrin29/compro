@@ -818,7 +818,7 @@ section {
   .features .nav-link h4::-webkit-scrollbar {
     font-size: 14px;
     white-space: nowrap;
-    overflow-x: scroll;
+    overflow: auto;
     display: none;
   }
 }
