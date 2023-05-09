@@ -2649,6 +2649,26 @@ section {
   margin-bottom: 30px;
 }
 
+.col-lg-2.col-md-3.footer-links.tes1 {
+  padding-top: 35px;
+}
+
+@media (max-width: 575px) {
+  .col-lg-2.col-md-3.footer-links.tes1 {
+    padding-top: 0px;
+  }
+}
+
+.col-lg-2.col-md-3.footer-links.tes2 {
+  padding-top: 110px;
+}
+
+@media (max-width: 575px) {
+  .col-lg-2.col-md-3.footer-links.tes2 {
+    padding-top: 0px;
+  }
+}
+
 .footer .footer-content .footer-links ul {
   list-style: none;
   padding: 0;

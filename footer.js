@@ -47,7 +47,7 @@ document.write(`  <footer id="footer" class="footer">
       </div><!-- End footer info column-->
 
 
-      <div class="col-lg-2 col-md-3 footer-links" style="padding-top: 35px;">
+      <div class="col-lg-2 col-md-3 footer-links tes1">
         <h4>Useful Links</h4>
         <ul>
           <li><a href="index.html">Home</a></li>
@@ -55,7 +55,7 @@ document.write(`  <footer id="footer" class="footer">
 
         </ul>
       </div><!-- End footer links column-->
-      <div class="col-lg-2 col-md-3 footer-links" style="padding-top: 110px;">
+      <div class="col-lg-2 col-md-3 footer-links tes2">
 
         <ul>
           <li><a href="blog.html">Business Line</a></li>
