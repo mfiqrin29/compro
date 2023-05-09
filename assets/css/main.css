@@ -815,14 +815,21 @@ section {
 }
 
 @media (max-width: 575px)  {
+  .features .nav-link h4 {
+    font-size: 14px;
+    white-space: nowrap;
+    overflow: auto;
+    
+  }
+}
+/*@media (max-width: 575px)  {
   .features .nav-link h4::-webkit-scrollbar {
     font-size: 14px;
     white-space: nowrap;
     overflow: auto;
     display: none;
   }
-}
-
+}*/
 
 
 
