@@ -814,11 +814,12 @@ section {
   margin: 0;
 }
 
-@media (max-width: 575px) {
-  .features .nav-link h4 {
+@media (max-width: 575px)  {
+  .features .nav-link h4::-webkit-scrollbar {
     font-size: 14px;
     white-space: nowrap;
-    overflow: auto;
+    overflow-x: scroll;
+    display: none;
   }
 }
 
