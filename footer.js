@@ -37,11 +37,10 @@ document.write(`  <footer id="footer" class="footer">
             <br>
             Kuze-gun Kyoto 613-0024 Japan<br>
             <!-- <strong>Phone:</strong> +1 5589 55488 55<br> -->
-            <br>
-            <br>
-            <br>
-            <strong>Email:</strong> htinter.indo@gmail.com<br>
+            
+            
           </p>
+          <p class="foottes"><strong>Email:</strong> htinter.indo@gmail.com</p>
 
         </div>
       </div><!-- End footer info column-->

@@ -2619,6 +2619,16 @@ section {
   color: #fff;
 }
 
+p.foottes {
+  padding-top: 75px;
+}
+
+@media (max-width: 575px) {
+  p.foottes {
+    padding-top: 20px;
+}
+}
+
 .footer .footer-content .social-links a {
   font-size: 18px;
   display: inline-block;
