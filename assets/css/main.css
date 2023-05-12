@@ -1677,6 +1677,18 @@ li.nav-item.col-2 {
   padding: 20px 0 30px 0;
 }
 
+.testcontact {
+  display: inline-flex;
+  padding: 10px;
+}
+
+@media (max-width: 575px) {
+  .testcontact {
+    display: inline;
+    padding: 10px;
+  }
+}
+
 .contact .info-item i {
   display: flex;
   align-items: center;
