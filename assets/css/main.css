@@ -2603,6 +2603,16 @@ li.nav-item.col-2 {
   margin-bottom: 30px;
 }
 
+.footer-info.footjapan {
+  padding-top: 35px;
+}
+
+@media (max-width: 575px) {
+  .footer-info.footjapan {
+    padding-top: 0px;
+  }
+}
+
 .footer .footer-content .footer-info h3 {
   font-size: 28px;
   margin: 0 0 20px 0;
