@@ -2701,7 +2701,7 @@ p.foottes {
   margin-bottom: 30px;
 }
 
-.col-lg-2.col-md-3.footer-links.tes1 {
+.col-lg-4.col-md-3.footer-links.tes1 {
   padding-top: 35px;
 }
 
@@ -2709,6 +2709,10 @@ p.foottes {
   .col-lg-2.col-md-3.footer-links.tes1 {
     padding-top: 0px;
   }
+}
+
+.testusefull {
+  display: inline-flex;
 }
 
 .col-lg-2.col-md-3.footer-links.tes2 {

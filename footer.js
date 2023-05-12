@@ -46,26 +46,20 @@ document.write(`  <footer id="footer" class="footer">
       </div><!-- End footer info column-->
 
 
-      <div class="col-lg-2 col-md-3 footer-links tes1">
+      <div class="col-lg-4 col-md-3 footer-links tes1">
         <h4>Useful Links</h4>
-        <ul>
-          <li><a href="index.html">Home</a></li>
-          <li><a href="about.html">About us</a></li>
-
-        </ul>
+        <div class="testusefull">
+        <div class="col-lg-2">
+        <a href="index.html">Home</a>
+        <a href="about.html">About us</a>
+        </div>
+        <div class="col-lg-2">
+          <a href="blog.html">Business Line</a>
+          <a href="contact.html">Contact</a>
+        </div>
+        </div>
+        
       </div><!-- End footer links column-->
-      <div class="col-lg-2 col-md-3 footer-links tes2">
-
-        <ul>
-          <li><a href="blog.html">Business Line</a></li>
-          <li><a href="contact.html">Contact</a></li>
-
-        </ul>
-      </div>
-
-
-
-    </div><!-- End footer links column-->
 
   </div>
 </div>
