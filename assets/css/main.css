@@ -816,11 +816,16 @@ section {
 
 @media (max-width: 575px)  {
   .features .nav-link h4 {
-    font-size: 14px;
-    white-space: nowrap;
-    overflow: auto;
+    text-align: center;
     
   }
+}
+@media (max-width: 575px){
+li.nav-item.col-2 {
+    
+    flex: 0 0 auto;
+    width: 33.3%;
+}
 }
 /*@media (max-width: 575px)  {
   .features .nav-link h4::-webkit-scrollbar {
