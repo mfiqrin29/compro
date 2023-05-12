@@ -23,7 +23,7 @@ document.write(`  <footer id="footer" class="footer">
       </div><!-- End footer info column-->
 
       <div class="col-lg-4 col-md-6">
-        <div class="footer-info">
+        <div class="footer-info footjapan">
 
 
           <h6>Japan Branch
