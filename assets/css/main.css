@@ -2706,7 +2706,7 @@ p.foottes {
 }
 
 @media (max-width: 575px) {
-  .col-lg-2.col-md-3.footer-links.tes1 {
+  .col-lg-4.col-md-3.footer-links.tes1 {
     padding-top: 0px;
   }
 }
