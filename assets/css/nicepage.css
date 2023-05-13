@@ -41053,13 +41053,7 @@ a.u-link.u-text-hover-grey-90:hover {
         /** cms-rules **/
 
         /** color-rules **/
-        .u-overlap.u-overlap-transparent:not(.u-overlap-contrast) .u-header :not(.u-nav-item) > p:not(.u-text-variant),
-        .u-gradient > .u-container-layout > p:not(.u-text-variant),
-        .u-image:not(.u-shading) > .u-container-layout > p:not(.u-text-variant),
-        p:not(.u-text-variant)
-        {
-        color: #ffffff;
-        }
+        
         .u-overlap.u-overlap-transparent:not(.u-overlap-contrast) .u-header :not(.u-nav-item) > a,
         .u-gradient > .u-container-layout > a,
         .u-image:not(.u-shading) > .u-container-layout > a,
