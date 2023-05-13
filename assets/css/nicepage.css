@@ -422,7 +422,7 @@ abbr[title] {
 b,
 strong {
   font-weight: inherit;
-  font-weight: bold;
+  /*font-weight: bold;*/
 }
 dfn {
   font-style: italic;
@@ -41061,14 +41061,15 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-image:not(.u-shading) > .u-container-layout > p:not(.u-text-variant),
         p:not(.u-text-variant)
         {
-        color: #ffffff;
+        /*color: #ffffff;*/
         }
         .u-overlap.u-overlap-transparent:not(.u-overlap-contrast) .u-header :not(.u-nav-item) > a,
         .u-gradient > .u-container-layout > a,
         .u-image:not(.u-shading) > .u-container-layout > a,
         a
         {
-        color: #ff724a;
+          color: #ffffff;
+        /*color: #ff724a;*/
         }
         .u-overlap.u-overlap-transparent:not(.u-overlap-contrast) .u-header :not(.u-nav-item) > a:hover,
         .u-gradient > .u-container-layout > a:hover,
