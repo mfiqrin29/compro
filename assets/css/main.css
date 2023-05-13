@@ -2716,7 +2716,7 @@ p.foottes {
 }
 
 @media (max-width: 575px) {
-  .usefullblog {
+  span.usefullblog {
     padding-left: 5px;
   }
 }
