@@ -54,7 +54,7 @@ document.write(`  <footer id="footer" class="footer">
         <a href="about.html">About us</a>
         </div>
         <div class="col-lg-4">
-          <a href="blog.html">Business Line</a>
+          <a class="usefullblog" href="blog.html">Business Line</a>
           <a href="contact.html">Contact</a>
         </div>
         </div>
