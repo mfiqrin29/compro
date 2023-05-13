@@ -422,6 +422,7 @@ abbr[title] {
 b,
 strong {
   font-weight: inherit;
+  font-weight: bold;
 }
 dfn {
   font-style: italic;
@@ -40826,6 +40827,8 @@ a.u-link.u-text-hover-grey-90:hover {
         
         
         
+        
+        
         --theme-sheet-width-xl: 1140px;
         --theme-sheet-width-lg: 940px;
         --theme-sheet-width-md: 720px;
@@ -41039,7 +41042,7 @@ a.u-link.u-text-hover-grey-90:hover {
         }
         .u-xs h2:not(.u-subtitle)
         {
-        font-size: 2.0rem;
+        font-size: 2.125rem;
         line-height: 1.1;
         font-weight: 700;
         list-icon-spacing: 0.3;
@@ -41053,13 +41056,19 @@ a.u-link.u-text-hover-grey-90:hover {
         /** cms-rules **/
 
         /** color-rules **/
-        
+        .u-overlap.u-overlap-transparent:not(.u-overlap-contrast) .u-header :not(.u-nav-item) > p:not(.u-text-variant),
+        .u-gradient > .u-container-layout > p:not(.u-text-variant),
+        .u-image:not(.u-shading) > .u-container-layout > p:not(.u-text-variant),
+        p:not(.u-text-variant)
+        {
+        color: #ffffff;
+        }
         .u-overlap.u-overlap-transparent:not(.u-overlap-contrast) .u-header :not(.u-nav-item) > a,
         .u-gradient > .u-container-layout > a,
         .u-image:not(.u-shading) > .u-container-layout > a,
         a
         {
-        color: white;
+        color: #ff724a;
         }
         .u-overlap.u-overlap-transparent:not(.u-overlap-contrast) .u-header :not(.u-nav-item) > a:hover,
         .u-gradient > .u-container-layout > a:hover,
@@ -41155,10 +41164,6 @@ a.u-link.u-text-hover-grey-90:hover {
   background-image: none;
 }
 
-.u-header .u-sheet-1 {
-  min-height: 80px;
-}
-
 
 
 
@@ -41168,11 +41173,6 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-footer .u-sheet-1 {
   min-height: 120px;
-}
-
-.u-footer .u-text-1 {
-  width: 417px;
-  margin: 49px auto;
 }
 @media (max-width: 1199px) {
   .u-footer .u-sheet-1 {
@@ -41192,10 +41192,6 @@ a.u-link.u-text-hover-grey-90:hover {
 @media (max-width: 575px) {
   .u-footer .u-sheet-1 {
     min-height: 36px;
-  }
-
-  .u-footer .u-text-1 {
-    width: 340px;
   }
 }
 
