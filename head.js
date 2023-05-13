@@ -28,7 +28,7 @@ document.write(`<head>
 
 <!-- tambahan buat vision mision value pilisopi -->
 <link rel="stylesheet" href="assets/css/nicepage.css" media="screen">
-<link rel="stylesheet" href="assets/css/Company-1.css" media="screen">
+<link rel="stylesheet" href="assets/css/Company-2.css" media="screen">
 <script class="u-script" type="text/javascript" src="assets/js/jquery-1.9.1.min.js" defer=""></script>
 <script class="u-script" type="text/javascript" src="assets/js/nicepage.js" defer=""></script>
 </head>`);
