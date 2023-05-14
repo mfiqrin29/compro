@@ -7,11 +7,11 @@ document.write(`  <footer id="footer" class="footer">
       <div class="col-lg-4 col-md-6">
         <div class="footer-info">
           <h3>HT International</h3>
-          <h6>Jakarta Office
+          <h6>Head Office Indonesia
             Address:
           </h6>
           <p>
-            Marquee Executive Office<br>
+            Head Office Indonesia<br>
             Pondok Indah Office Tower III, 17th Floor<br>
             Jl. Sultan Iskandar Muda Kav V-TA Jakarta Selatan<br>
             DKI Jakarta 12310 Indonesia<br><br>
