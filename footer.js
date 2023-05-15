@@ -7,16 +7,12 @@ document.write(`  <footer id="footer" class="footer">
       <div class="col-lg-4 col-md-6">
         <div class="footer-info">
           <h3>HT International</h3>
-          <h6>Head Office Indonesia
-            Address:
-          </h6>
+          <h6>Indonesia Head Office</h6>
           <p>
-            Head Office Indonesia<br>
             Pondok Indah Office Tower III, 17th Floor<br>
             Jl. Sultan Iskandar Muda Kav V-TA Jakarta Selatan<br>
             DKI Jakarta 12310 Indonesia<br><br>
             <!-- <strong>Phone:</strong> +1 5589 55488 55<br> -->
-            <strong>Email:</strong> htinter.indo@gmail.com<br>
           </p>
 
         </div>
@@ -26,11 +22,7 @@ document.write(`  <footer id="footer" class="footer">
         <div class="footer-info footjapan">
 
 
-          <h6>Japan Branch
-            Address:
-
-
-          </h6>
+          <h6>Japan Branch Office</h6>
           <p>
 
             405-1 Kumiyama-cho Morimurahigashi
@@ -40,7 +32,6 @@ document.write(`  <footer id="footer" class="footer">
             
             
           </p>
-          <p class="foottes"><strong>Email:</strong> htinter.indo@gmail.com</p>
 
         </div>
       </div><!-- End footer info column-->
