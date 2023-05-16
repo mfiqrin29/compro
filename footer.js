@@ -37,19 +37,20 @@ document.write(`  <footer id="footer" class="footer">
       </div><!-- End footer info column-->
 
 
-      <div class="col-lg-4 col-md-3 footer-links tes1">
+      <div class="col-lg-4 col-md-6 footer-links tes1">
         <h4>Useful Links</h4>
+        <div class="row">
         <div class="testusefull">
-        <div class="col-lg-4">
+        <div class="col-lg-2 col-md-3">
         <a href="index.html">Home</a>
         <a href="about.html">About us</a>
         </div>
-        <div class="col-lg-4">
+        <div class="col-lg-4 col-md-6">
           <a href="blog.html"><span class="usefullblog">Business Line</span></a>
           <a href="contact.html">Contact</a>
         </div>
         </div>
-        
+        </div>
       </div><!-- End footer links column-->
 
   </div>
